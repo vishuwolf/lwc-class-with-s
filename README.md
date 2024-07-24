@@ -1,0 +1,1 @@
+# lwc-class-with-s
